@@ -48,5 +48,5 @@ go build main.go
 
 ## 效果图
 
-![show](https://github.com/aiici/weblogicAllinone/img/show.jpg)
+![show](img/show.jpg)
 
